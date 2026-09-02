@@ -1,15 +1,13 @@
-# C-Flat / C-Flat++
+# C-Flat++
 
-This repository contains the official implementation of the NeurIPS 2024 paper "Make Continual Learning Stronger via C-Flat" [[paper](https://openreview.net/pdf?id=Dokew2u49m)] and a standalone implementation of "C-Flat++: Towards a More Efficient and Powerful Framework for Continual Learning" [[paper](https://arxiv.org/abs/2508.18860)], accepted by IJCV.
-
-The C-Flat++ strategy is adapted from [THUDM/INFTY](https://github.com/THUDM/INFTY) at commit `c29ca088d4c4860e6a439882268a538cebd9c992`. It is included directly in this repository, so switching modes does not require installing INFTY. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for provenance and license information.
+This repository contains the official implementation of "C-Flat++: Towards a More Efficient and Powerful Framework for Continual Learning" [[paper](https://arxiv.org/abs/2508.18860)], accepted by IJCV.
 
 ## 🥳 Integration Notice 🥳
 
 *C-Flat* has been fully integrated into the [[INFTY](https://github.com/THUDM/INFTY)] package, serving as a strong algorithm supporting generalizability within the continual learning ecosystem. For the latest version and extended functionalities, please refer to **INFTY**.
 
 ## Acknowledgment
-This repository is partially based on [PyCIL](https://github.com/G-U-N/PyCIL) and [GAM](https://github.com/xxgege/GAM).
+This repository is partially based on [PyCIL](https://github.com/G-U-N/PyCIL).
 
 ## Prerequisites
 This code is implemented in PyTorch, and we have tested the code under the following environment settings:
@@ -104,4 +102,4 @@ If you find this repo useful for your research, please consider citing the paper
 ```
 ## Contact
 
-If there are any questions, please feel free to contact the corresponding author: Tao Feng (fengtao.hi@gmail.com).
+If there are any questions, please feel free to contact the corresponding author (ymjiii98@gmail.com).
