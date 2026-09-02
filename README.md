@@ -86,13 +86,11 @@ logits, loss_list = optimizer.step()
 If you find this repo useful for your research, please consider citing the paper.
 
 ```
-@article{bian2024make,
-  title={Make continual learning stronger via c-flat},
-  author={Bian, Ang and Li, Wei and Yuan, Hangjie and Wang, Mang and Zhao, Zixiang and Lu, Aojun and Ji, Pengliang and Feng, Tao and others},
-  journal={Advances in Neural Information Processing Systems},
-  volume={37},
-  pages={7608--7630},
-  year={2024}
+@article{li2025cflatplusplus,
+  title={C-Flat++: Towards a More Efficient and Powerful Framework for Continual Learning},
+  author={Li, Wei and Yuan, Hangjie and Zhao, Zixiang and Zhu, Yifan and Lu, Aojun and Feng, Tao and Sun, Yanan},
+  journal={arXiv preprint arXiv:2508.18860},
+  year={2025}
 }
 ```
 ## Contact
