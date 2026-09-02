@@ -21,11 +21,6 @@ conda env create -f environment.yml
 conda activate cflat-plus
 ```
 
-## Algorithm and results
-![](resources/cflat_algo.png)
-![](resources/cflat_results.png)
-![](resources/loss_landscapes.png)
-
 ## Usage
 Step 0:  Datasets
 
